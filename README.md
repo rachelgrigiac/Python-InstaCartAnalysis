@@ -18,6 +18,6 @@ Instacart, an online grocery store, already has very good sales, but they want t
   - Is there a connection between age and family status in terms of ordering habits?
   - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
   - What differences can you find in ordering habits of different customer
-profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
+profiles? 
 
 #### Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for CareerFoundry Data Analytics Bootcamp.
