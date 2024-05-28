@@ -20,4 +20,6 @@ Instacart, an online grocery store, already has very good sales, but they want t
   - What differences can you find in ordering habits of different customer
 profiles? 
 
+[Final Report](A4_final_report_RG.xlsx)
+
 #### Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for CareerFoundry Data Analytics Bootcamp.
